@@ -38,6 +38,7 @@ async
 use-component
 slot
 mask
+action
 ```
 
 ## API
